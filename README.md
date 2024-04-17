@@ -10,7 +10,7 @@ Lawki is a completely secure and fast password manager that saves all your data 
 If you encounter a problem, please open a new ticket describing your problem as precisely as possible.
 
 # Version released
-- 1.0.0.1
+- 1.0.0.0
 
 # Warning
 Any attempts to modify the source code are completely prohibited and may cause loss of data or malfunction of the application.
