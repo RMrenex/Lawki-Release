@@ -11,3 +11,8 @@ If you encounter a problem, please open a new ticket describing your problem as 
 
 # Version released
 - 1.0.0.1
+
+# Warning
+Any attempts to modify the source code are completely prohibited and may cause loss of data or malfunction of the application.
+Lawki takes no responsibility for the loss of your data.
+Thank you for your understanding
