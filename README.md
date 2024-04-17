@@ -1,6 +1,9 @@
 # Description
 Lawki is a completely secure and fast password manager that saves all your data on your computer.
 
+#Requirement
+.NET 8 or higher : https://dotnet.microsoft.com/en-us/download
+
 # Available on
 - Windows 10/11
 - Mac os (soon)
